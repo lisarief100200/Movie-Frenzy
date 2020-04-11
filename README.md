@@ -31,4 +31,4 @@
 ## Video
 Link : https://www.youtube.com/watch?v=x7IiSk13P4w&feature=youtu.be
 
-####### Catatan: Kurangnya beberapa fitur, terutama yang terkait dengan database
+###### Catatan: Kurangnya beberapa fitur yang terkait dengan database
